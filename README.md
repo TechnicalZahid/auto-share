@@ -17,4 +17,4 @@ git clone https://github.com/TechnicalZahid/auto-share.git
 
 cd auto-share
 
-python sharer_pro.py
+python sharer.cpython-310.pyc
